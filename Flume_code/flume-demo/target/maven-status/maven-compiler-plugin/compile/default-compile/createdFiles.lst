@@ -1,0 +1,4 @@
+com\hunter95\interceptor\TypeInterceptor$Builder.class
+com\hunter95\sink\MySink.class
+com\hunter95\source\MySource.class
+com\hunter95\interceptor\TypeInterceptor.class
